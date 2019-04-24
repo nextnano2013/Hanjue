@@ -2779,7 +2779,8 @@ input, select, textarea {
 			}
 
 			.tiles article:after {
-				background-color: rgba(36, 41, 67, 0.25);
+				/* background-color: rgba(36, 41, 67, 0.25); */
+				background-color: rgba(11, 24, 30, 0.25); /* added by Antony */
 				content: '';
 				display: block;
 				height: 100%;
