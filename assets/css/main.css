@@ -182,7 +182,8 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		/* color: #ffffff; */
+    color: #E1B247;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
@@ -3391,7 +3392,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: black;
+			background-color: #242943;
 			content: '';
 			display: block;
 			height: 100%;
